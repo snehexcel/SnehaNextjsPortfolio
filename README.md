@@ -20,7 +20,8 @@ The pages/api directory is mapped to /api/*. Files in this directory are treated
 
 This project uses next/font to automatically optimize and load Inter, a custom Google Font.
 
-Learn More
+Learn More 
+#
 To learn more about Next.js, take a look at the following resources:
 
 Next.js Documentation - learn about Next.js features and API.
